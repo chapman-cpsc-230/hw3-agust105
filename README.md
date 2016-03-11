@@ -2,17 +2,19 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Francis Agustin
 
-**Due date:** _\<date\>_
+**Due date:** March 11, 2016
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+* Completed exercises 2.17 and 2.18 from the text (boolean expressions, loops)
+* Used 'for' loops with turtle.py to write program that can draw shapes
+
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned a lot more about ‘for’ loops and how they can be used to perform a variety of tasks much easier than a ‘while’ loop. Also practiced with boolean statements.
 
 ## Honor Pledge
 
@@ -23,4 +25,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_Francis Agustin_
